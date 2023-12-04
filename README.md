@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://nicooo7.github.io/Me.io/" target="blank">
 Saurabh</a></h1>
 <h3 align="center">A passionate FiveM developer from Argentina &#127470;&#127475</h3>
 
@@ -16,15 +16,9 @@ Saurabh</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 💬 Ask me about **Reactjs & React-Native**
 
 - 📫 How to reach me **nicolasramirez1279@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
